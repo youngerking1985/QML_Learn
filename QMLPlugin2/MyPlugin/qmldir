@@ -1,0 +1,5 @@
+module MyPlugin
+MyRect 1.0 MyRect.qml
+plugin MyPlugin
+typeinfo plugin.qmltypes
+
